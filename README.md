@@ -1,4 +1,4 @@
-### Hi there 👋
+![A little about me](https://github.com/maurycupitt/maurycupitt/blob/master/maury-intro-slide.png)
 
 <!--
 **maurycupitt/maurycupitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
